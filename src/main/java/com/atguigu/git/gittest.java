@@ -11,6 +11,7 @@ public class gittest {
         System.out.println("hello git4");
         System.out.println("master test");
         System.out.println("hot_fix test");
+        System.out.println("push test");
     }
 
 }
